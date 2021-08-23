@@ -1,0 +1,52 @@
+.logo{
+    width: 10%;
+
+}
+.menu{
+    line-height: 60px;
+    width: 80%;
+}
+.navbar{
+    background-color: #ececec;
+}
+.menu ul li{
+    display: inline;
+    padding: 2%; 
+    font-weight: bold;
+}
+.img-responsive{
+    width: 100%;
+}
+.nav-item ul li{
+    padding:0%;
+}
+
+.btn{
+    width:100%;
+}
+.main-1{
+    padding: 3%;
+}
+.box1{
+    width: 70%;
+    margin: 0 auto;
+    padding: 3%;
+}
+.box2{
+    width: 30%;
+    float: left;
+    margin: 1%;
+}
+.box2-img{
+    width: 20%;
+    float: left;
+}
+.box2-desc{
+    width: 70%;
+    float:left;
+    margin-left: 8%;
+}
+.main-2{
+    padding: 3%;
+    overflow: auto;
+}

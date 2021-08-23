@@ -1,0 +1,27 @@
+.logo{
+    width: 10%;
+
+}
+.menu{
+    line-height: 60px;
+    width: 80%;
+}
+.navbar{
+    background-color: #ececec;
+}
+.menu ul li{
+    display: inline;
+    padding: 5%; 
+    font-weight: bold;
+}
+.img-responsive{
+    width: 100%;
+}
+.admin{
+    padding: 2%;
+}
+
+
+
+
+    

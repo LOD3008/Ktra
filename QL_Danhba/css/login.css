@@ -1,0 +1,9 @@
+.login{
+	border: 1px solid grey;
+	width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+}
+.text-center{
+	text-align:center;
+}
